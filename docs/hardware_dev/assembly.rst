@@ -22,6 +22,8 @@ First, connect the carabiner (clip) to the USB drive.
 
 	Step 1: Attach Carabiner to USB drive
 
+Note that you do not need to install anything on the USB drive. No software, and no configuration file. Just plug in the drive, blank.
+
 Step 2: Plug USB drive into cable
 ---------------------------------
 
